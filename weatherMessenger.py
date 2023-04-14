@@ -1,6 +1,6 @@
 import json
 import requests
-print("★Visit weatherapi.com to get Your own API\n★Please Note that temperature may vary!\n★And Your internet connection must be stable!")
+print("★Visit weatherapi.com to get Your own API\n★Please Note that temperature may vary from that of GOOGLE!\n★And Your internet connection must be stable!")
 
 #Use this api if you dont want to create your own! This may work if api is valid
 choice = input("\nWant to continue with default API? (May work or may not)\n y for Yes | n for No: ")
